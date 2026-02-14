@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "灰皿",
+  "base_artist": "HAWK",
+  "createdAt": "2026-02-14T04:31:26.540717Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "灰皿",
+      "artist": "HAWK",
+      "has_synced": false,
+      "path": "select/pl_01_灰皿_HAWK.txt"
+    }
+  ]
+}
